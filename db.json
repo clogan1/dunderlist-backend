@@ -155,7 +155,13 @@
     {
       "email": "vincentbaylon@gmail.com",
       "password": "$2a$10$HhPnmLlZVcO4Zhk8uHarhuiKELgPwJRONbukwlmF0jdKMXZfGCLMm",
-      "id": 1
+      "id": 1,
+      "cart": [
+        6,
+        2,
+        1,
+        5
+      ]
     }
   ]
 }
