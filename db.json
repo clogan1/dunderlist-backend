@@ -8,7 +8,8 @@
       "seller": "Kevin Malone",
       "category": "Food",
       "comments": [],
-      "inCart": false
+      "inCart": false,
+      "inStock": true
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "seller": "Jan Levinson",
       "category": "Home",
       "comments": [],
-      "inCart": false
+      "inCart": false,
+      "inStock": true
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "seller": "Dwight Schrute",
       "category": "Food",
       "comments": [],
-      "inCart": false
+      "inCart": false,
+      "inStock": true
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "seller": "Phyllis Lapin-Vance",
       "category": "Home",
       "comments": [],
-      "inCart": false
+      "inCart": false,
+      "inStock": true
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "seller": "Ryan Howard",
       "category": "Miscellaneous",
       "comments": [],
-      "inCart": false
+      "inCart": false,
+      "inStock": true
     },
     {
       "id": 6,
@@ -58,17 +63,19 @@
       "seller": "Michael Scott",
       "category": "Miscellaneous",
       "comments": [],
-      "inCart": false
+      "inCart": false,
+      "inStock": true
     },
     {
       "id": 7,
       "title": "Original Art",
       "image": "https://i5.walmartimages.com/asr/86e194cd-444e-4ac2-8e21-74c7ef707e96_1.63c1dbfe0649fd9ad1168c51834e26ce.jpeg",
       "price": 35,
-      "seller": "Pam Beesley",
+      "seller": "Pam Beesly",
       "category": "Home",
       "comments": [],
-      "inCart": false
+      "inCart": false,
+      "inStock": true
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "seller": "Toby Flenderson",
       "category": "Miscellaneous",
       "comments": [],
-      "inCart": false
+      "inCart": false,
+      "inStock": true
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "seller": "Creed Bratton",
       "category": "Apparel",
       "comments": [],
-      "inCart": false
+      "inCart": false,
+      "inStock": true
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "seller": "Jan Levinson",
       "category": "Miscellaneous",
       "comments": [],
-      "inCart": false
+      "inCart": false,
+      "inStock": true
     },
     {
       "id": 11,
@@ -108,7 +118,8 @@
       "seller": "Michael Scott",
       "category": "Home",
       "comments": [],
-      "inCart": false
+      "inCart": false,
+      "inStock": true
     },
     {
       "id": 12,
@@ -118,7 +129,8 @@
       "seller": "Michael Scott",
       "category": "Miscellaneous",
       "comments": [],
-      "inCart": false
+      "inCart": false,
+      "inStock": true
     },
     {
       "id": 13,
@@ -128,7 +140,8 @@
       "seller": "Jim Halpert",
       "category": "Home",
       "comments": [],
-      "inCart": false
+      "inCart": false,
+      "inStock": true
     },
     {
       "id": 14,
@@ -138,7 +151,8 @@
       "seller": "Michael Scott",
       "category": "Apparel",
       "comments": [],
-      "inCart": false
+      "inCart": false,
+      "inStock": true
     },
     {
       "id": 15,
@@ -148,7 +162,8 @@
       "seller": "Angela Martin",
       "category": "Home",
       "comments": [],
-      "inCart": false
+      "inCart": false,
+      "inStock": true
     }
   ],
   "users": [
@@ -156,12 +171,22 @@
       "email": "vincentbaylon@gmail.com",
       "password": "$2a$10$HhPnmLlZVcO4Zhk8uHarhuiKELgPwJRONbukwlmF0jdKMXZfGCLMm",
       "id": 1,
-      "cart": [
-        6,
-        2,
-        1,
-        5
-      ]
+      "cart": []
+    },
+    {
+      "email": "test@mail.com",
+      "password": "$2a$10$dcQWOSRTkbl/43ARczXy2.8Qvvme35cfDg1gx4RNeSAH2rjL8bqkm",
+      "id": 2
+    },
+    {
+      "email": "testing@mail.com",
+      "password": "$2a$10$fishOO1r6QuaDpnwbVAu7u9rqFqYwmANweBC6OD3CEPOLjxqVAn7K",
+      "id": 3
+    },
+    {
+      "email": "newuser@mail.com",
+      "password": "$2a$10$iHEom4cewlBg582HF0F5wuAn6ULccwk3uogSY3DD1nJse/vlYynIe",
+      "id": 4
     }
   ]
 }
