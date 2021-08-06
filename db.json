@@ -168,7 +168,7 @@
     {
       "title": "Harry Styles Calendar",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qwGu3B7gL.jpg",
-      "price": "11",
+      "price": 11,
       "category": "Home",
       "seller": "Kelly Kapoor",
       "comments": [],
@@ -179,7 +179,7 @@
     {
       "title": "White Keds (women's size 7)",
       "image": "https://media.kohlsimg.com/is/image/kohls/1128957_White?wid=600&hei=600&op_sharpen=1",
-      "price": "12",
+      "price": 12,
       "category": "Apparel",
       "seller": "Pam Beesly",
       "comments": [],
