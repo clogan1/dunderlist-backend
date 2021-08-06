@@ -187,6 +187,8 @@
       "inStock": true,
       "id": 17
     }
+    
+   
   ],
   "users": [
     {
@@ -214,7 +216,9 @@
       "email": "clairelogan16@gmail.com",
       "password": "$2a$10$GNPSmln0eSEMcCoqPzNc2uaQTv4E8iYQRoyaREDhsMLJ7NG2O1yli",
       "id": 5,
-      "cart": [],
+      "cart": [
+        23
+      ],
       "likes": [
         3,
         2,
